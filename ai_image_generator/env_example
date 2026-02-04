@@ -1,0 +1,8 @@
+# ==========================================
+# REQUIRED API KEYS
+# ==========================================
+
+# OpenAI API Key (Required)
+# Get your key at: https://platform.openai.com/api-keys
+OPENAI_API_KEY=<your_API_key>
+
